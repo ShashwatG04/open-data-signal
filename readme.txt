@@ -2,7 +2,12 @@
 OPEN-DATA SIGNALS – INDIAN EQUITY TIMING
 ==========================================================
 
-Author: Shashwat Gautam(221005)
+Team Members:
+SHASHWAT GAUTAM (221005)
+SATYAM SINGH (220985)
+VANSH MINA (221167)
+HASHVITH (221158)
+
 Date: [10/11/2025]
 Environment: Python 3.11+
 ----------------------------------------------------------
@@ -281,6 +286,7 @@ FINAL NOTES
 • The pipeline can be extended to daily or monthly frequency.
 • The Streamlit app can be deployed easily to Streamlit Cloud.
 ==========================================================
+
 
 
 
