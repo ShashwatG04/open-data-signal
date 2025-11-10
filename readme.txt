@@ -277,6 +277,5 @@ FINAL NOTES
 • The model is designed to predict one-week-ahead returns.
 • The pipeline can be extended to daily or monthly frequency.
 • The Streamlit app can be deployed easily to Streamlit Cloud.
-
-End of README
 ==========================================================
+
