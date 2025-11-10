@@ -22,9 +22,14 @@ signals, trains ML models (ElasticNet and LightGBM), simulates
 a weekly trading strategy through backtesting, and visualizes
 performance using an interactive Streamlit web dashboard.
 
+==========================================================
+CLONE THE GIT REPO
+==========================================================
+git clone https://github.com/ShashwatG04/open-data-signal
+cd open-data-signals
 
 ==========================================================
-1️⃣ ENVIRONMENT SETUP
+ENVIRONMENT SETUP
 ==========================================================
 1. Create and activate virtual environment:
     python -m venv venv311
@@ -32,14 +37,6 @@ performance using an interactive Streamlit web dashboard.
 
 2. Install all dependencies:
     pip install -r requirements.txt
-
-   Required libraries:
-    - pandas
-    - numpy
-    - scikit-learn
-    - lightgbm
-    - streamlit
-    - joblib
 
 ==========================================================
 Now you have three options:
@@ -278,4 +275,5 @@ FINAL NOTES
 • The pipeline can be extended to daily or monthly frequency.
 • The Streamlit app can be deployed easily to Streamlit Cloud.
 ==========================================================
+
 
