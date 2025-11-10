@@ -22,6 +22,12 @@ signals, trains ML models (ElasticNet and LightGBM), simulates
 a weekly trading strategy through backtesting, and visualizes
 performance using an interactive Streamlit web dashboard.
 
+=========================================================
+DEMO
+=========================================================
+A demo of the project can be found here : 
+https://drive.google.com/drive/folders/17E5mVXcPsOE8XoKyJxfJ3ZPkNZS9zZn-
+
 ==========================================================
 CLONE THE GIT REPO
 ==========================================================
@@ -275,5 +281,6 @@ FINAL NOTES
 • The pipeline can be extended to daily or monthly frequency.
 • The Streamlit app can be deployed easily to Streamlit Cloud.
 ==========================================================
+
 
 
