@@ -56,7 +56,9 @@ Now you have three options:
 ==========================================================
 2️⃣ DOUBLE CLICK THE RUN.BAT FILE
 ==========================================================
-Navifate to the file explorer and just double click the run.bat file.
+Navigate to the file explorer and open run.bat file.
+Update the local path of your open-data-signal folder.(eg. E:\open-data-signals)
+Now just double click the run.bat icon in the file explorer.
 
 ==========================================================
 2️⃣ RUN THE RUN.PY FILE
@@ -286,6 +288,7 @@ FINAL NOTES
 • The pipeline can be extended to daily or monthly frequency.
 • The Streamlit app can be deployed easily to Streamlit Cloud.
 ==========================================================
+
 
 
 
